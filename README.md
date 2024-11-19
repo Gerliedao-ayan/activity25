@@ -1,3 +1,6 @@
+
+###Activity 25: SOLID PRINCIPLES in Angular
+
 SOLID Principles:
 Single Responsibility Principle (SRP):
 Explanation:
