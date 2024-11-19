@@ -1,3 +1,4 @@
+![1](https://cdn.sanity.io/images/2ikr6ags/production/8fa1c5bd5356d83c9c8ef2aa87de04678fe22b91-1282x720.png)
 
 # Activity-25-SOLID-PRINCIPLES-IN-Angular
 
